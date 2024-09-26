@@ -42,6 +42,7 @@ body {
     background-image: url("5.jpg");
     background-repeat: no-repeat;
     background-size: auto;
+    text-align: center;
   }
 .form2{
     float: center;
